@@ -1,0 +1,10 @@
+k=["python","django",[1,2,3,4,(5,8,3,"DON","KING"),"don","king"],7,9,1,0]
+print(k)
+print(k[2][0])
+print(k[-5][-3][-2])
+print(k[-5][-3][-1])
+print(k[2][6][1:4:1])
+print(k[2][4][3][-2::1])
+print(k[2][4][-4])
+print(k[2][4][3][-1])
+print(k[2][6][-4])
